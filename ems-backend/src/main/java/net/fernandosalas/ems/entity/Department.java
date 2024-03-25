@@ -19,7 +19,7 @@ public class Department {
     private String departmentName;
 
     @Column(name = "department_description")
-    private String departmentDescription;
+    private String department;
 
     public void setDepartmentDescription(String departmentDescription) {
     }
